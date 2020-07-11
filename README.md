@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+间歇性踌躇满志，持续性混吃等死
+
 <!--
 **Blackyukun/Blackyukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
