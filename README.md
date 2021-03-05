@@ -2,8 +2,10 @@
 
 间歇性踌躇满志，持续性混吃等死
 
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=yokonsan&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yokonsan&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+-->
 
 <!--
 **Blackyukun/Blackyukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
