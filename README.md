@@ -2,7 +2,7 @@
 
 间歇性踌躇满志，持续性混吃等死
 
-#### yokon ![](https://views.whatilearened.today/views/github/yokonsan/yokonsan.svg)
+### yokon ![](https://views.whatilearened.today/views/github/yokonsan/yokonsan.svg)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=yokonsan&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
