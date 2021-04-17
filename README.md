@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 
 ### 📫 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [企查查请求头反爬破解](http://www.yukunweb.com/2021/2/qcc-header-sign)
+- [Docker入门：核心组件](http://www.yukunweb.com/2019/1/docker-core-component)
+- [读三体](http://www.yukunweb.com/2018/8/read-three-body)
 <!-- BLOG-POST-LIST:END -->
