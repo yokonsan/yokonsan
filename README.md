@@ -1,29 +1,29 @@
-> 青春是青涩的年代
-> 
-> 我明白　明天不会有色彩
-> 
-> 社会是伤害的比赛
-> 
-> 当我醒来时才明白
-> 
-> 请你不要离开
-> 
-> 这里胜似花开
-> 
-> 没有人能够掩盖
-> 
-> 梦境中的色彩
-> 
-> 请你不要离开
-> 
-> 这里胜似花开
-> 
-> 没有人会去涂改
-> 
-> 梦境中的色彩
-> 
-> 头上蓝色时光流淌
-> 
-> 空荡的世界沮丧
+### yokonsan ✈ ![](https://views.whatilearened.today/views/github/yokonsan/yokonsan.svg)
 
-![](https://views.whatilearened.today/views/github/yokonsan/yokonsan.svg)
+博观约取，厚积薄发
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yokonsan&count_private=true&show_icons=true" />
+</a>
+
+🔥 **About Me**
+
+- 🔭 主要使用: Python，Golang
+- 📫 E-mail: 944682328@qq.com
+- 🍨 博客: [yokon's blog](https://yokonsan.com/)
+- 👀 目前状态：经历裁员，找工作中
+
+❄️ **Skills**
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+🎄 **Others**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokonsan&layout=compact" />
+
+
+
+
