@@ -11,7 +11,7 @@
 - 🔭 主要使用: Python，Go
 - 📫 E-mail: 944682328@qq.com
 - 🍨 博客: [yokon's blog](https://yokonsan.com/)
-- 👀 目前状态：经历裁员，找工作中
+- 👀 目前状态：找工作中...
 
 ❄️ **Skills**
 
